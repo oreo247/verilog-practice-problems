@@ -19,7 +19,6 @@ Topics include:
 
 ## 🛠 Tools Used
 
-- Verilog HDL
-- GTKWave (for waveform viewing)
-- EDA Playground / ModelSim / Icarus Verilog (for simulation)
+- Verilog 
+- EDA Playground / Icarus Verilog 
 
